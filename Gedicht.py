@@ -1,0 +1,5 @@
+print("Min naam is Senno Taphoorn. 2002 is the year i was born.") 
+print("Ik houd van gamen elke dag. en ik houd ook veel van een lach.")
+print("Ik speel games en kijk films met plezier. En hoop het heel leuk te hebben hier. Met bier.")
+print("Ik studeer gamedevelopment. En hoop dat ik daar ooit goed in bent.")
+print("Ik wens iedereen veel geluk op deze opleiding. Ookal zorgen jullie voor veel afleiding")
